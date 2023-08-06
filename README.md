@@ -1,6 +1,6 @@
 ### About me
 
-- 🔭 I’m currently working on some crazy idea that may involve texture creation, code creation, 3d edition and image/video creation.
+- 🔭 I’m probably working on some crazy idea that may involve texture creation, code creation, 3d edition and image/video creation.
 <!--
 **LN-Development/LN-Development** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
