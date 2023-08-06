@@ -1,6 +1,10 @@
-### About me
+# About me 📡
 
 - 🔭 I’m probably working on some crazy idea that may involve texture creation, code creation, 3d edition and image/video creation.
+- 📫 How to reach me: Discord "lndev"
+- 📦 Here you may find content for GTA V/FiveM, Minecraft, Arma Reforger and Ready Or Not
+
+
 <!--
 **LN-Development/LN-Development** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +17,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...    
 -->
