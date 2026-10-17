@@ -7,4 +7,4 @@
 
 
 
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,lua,python,js,ts,blender,sketchup&theme=light&perline=8)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,lua,sketchup&theme=light&perline=8)](https://skillicons.dev)
